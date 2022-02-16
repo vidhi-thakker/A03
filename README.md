@@ -78,9 +78,9 @@ WebStorm lets you manage Git projects hosted on GitHub directly from the IDE: cl
 2. Post the URL into Moodle with your Github account URL. <br>
 
 <h2>References</h2>
-1. Beer, B. (2018). Introducing GitHub. 2ed. O’Reilly Press. 
-2. Jetbrains. (2019). Git.   Retrieved March 21, 2019, from https://www.jetbrains.com/help/webstorm/using-git-integration.html
-3. GitHub (2019) GitHub Guides Tutorial. Retrieved  March 19, 2019, from https://guides.github.com/activities/hello-world/ 
+1. Beer, B. (2018). Introducing GitHub. 2ed. O’Reilly Press. <br>
+2. Jetbrains. (2019). Git.   Retrieved March 21, 2019, from https://www.jetbrains.com/help/webstorm/using-git-integration.html <br>
+3. GitHub (2019) GitHub Guides Tutorial. Retrieved  March 19, 2019, from https://guides.github.com/activities/hello-world/ <br>
 
 
 
