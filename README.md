@@ -63,14 +63,24 @@ WebStorm lets you manage Git projects hosted on GitHub directly from the IDE: cl
 1. Click on Ctrl + Shift + K OR go to VCS, then Git and then click on Push. <br>
 2. This updates the file on Github. <br>
 
-<h3>Setting up Github Pages</h3>
+<h3>Github Pages</h3>
+
+<h4>Setting up Github Pages</h4>
 1. Click on Settings
 2. Check the Repository name.
 
-<h4>Setting up Github Pages</h4>
+<h4>Choose Github Page Location</h4>
 1. Select “Master branch”.<br>
 2. Note the published URL. <br>
 
-<h3> Check your GitHub Pages</h3>
+<h4>Check your GitHub Pages</h4>
+1. Copy the Github.io URL into a browser. <br>
+2. Post the URL into Moodle with your Github account URL. <br>
+
+<h2>References</h2>
+1. Beer, B. (2018). Introducing GitHub. 2ed. O’Reilly Press. 
+2. Jetbrains. (2019). Git.   Retrieved March 21, 2019, from https://www.jetbrains.com/help/webstorm/using-git-integration.html
+3. GitHub (2019) GitHub Guides Tutorial. Retrieved  March 19, 2019, from https://guides.github.com/activities/hello-world/ 
+
 
 
