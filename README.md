@@ -1,5 +1,5 @@
 # A03
-<h2>Tutorial on Git, Github and Webstorm</h2>
+<h1>Tutorial on Git, Github and Webstorm</h1>
 <h3>What is the difference between Git, Github and Webstorm?</h3>
 WebStorm lets you manage Git projects hosted on GitHub directly from the IDE: clone repositories, share your projects, create forks, share code through gists, create pull requests and review incoming pull requests.
 <h3>How to install Webstorm?</h3>
@@ -80,7 +80,18 @@ WebStorm lets you manage Git projects hosted on GitHub directly from the IDE: cl
 <h2>References</h2>
 1. Beer, B. (2018). Introducing GitHub. 2ed. O’Reilly Press. <br>
 2. Jetbrains. (2019). Git.   Retrieved March 21, 2019, from https://www.jetbrains.com/help/webstorm/using-git-integration.html <br>
-3. GitHub (2019) GitHub Guides Tutorial. Retrieved  March 19, 2019, from https://guides.github.com/activities/hello-world/ <br>
+3. GitHub (2019) GitHub Guides Tutorial. Retrieved  March 19, 2019, from https://guides.github.com/activities/hello-world/ <br> <br> <br> <br> 
 
-
-
+<h1>Glossary</h1>
+<h4>1. Branch:</h4>A branch is an independent line of development in a project. When you create a branch (in your terminal or with the web interface), you are creating a snapshot of a certain branch, usually the main branch, at its current state. From there, you can start to make your own changes without affecting the main codebase. <br>
+<h4>2. Clone:</h4>The clone() method makes a copy of selected elements, including child nodes, text and attributes.<br> 
+<h4>3. Commit:</h4> The git commit command will save all staged changes, along with a brief description from the user, in a “commit” to the local repository. You can think of a commit as a snapshot of your project, where a new version of that project is created in the current repository. <br>
+<h4>4. Fetch:</h4> The Fetch API provides a JavaScript interface for accessing and manipulating parts of the HTTP pipeline, such as requests and responses. Fetch also provides a single logical place to define other HTTP-related concepts such as CORS and extensions to HTTP.<br>
+<h4>5. GIT:</h4> Git is a powerful file version control system. It gives us a history to track progress on files so that we can rewind or fast forward to a specific moment in time allowing us access to previous versions of a file. It is kind of like the best undo button you will ever learn.<br>
+<h4>6. Github:</h4>GitHub is a "social coding" site. It allows you to upload code repositories for storage in the Git version control system. You can then collaborate on code projects, and the system is open-source by default, meaning that anyone in the world can find your GitHub code, use it, learn from it, and improve on it. <br>
+<h4>7. Merge:</h4> It can be done by using the rowspan and colspan attribute in HTML. The rowspan is used to merge or combine the number of cells in a row whereas the colspan is used to merge column cells in a table. <br>
+ <h4>8. Merge Conflict:</h4> The name gives it away: a merge conflict can occur when you integrate (or “merge”) changes from a different source into your current working branch. For example, when the exact same line of code was changed in two commits, on two different branches, Git has no way of knowing which change you prefer. <br>
+<h4>9. Push:</h4>  <br>
+<h4>10. Pull:</h4>  <br>
+<h4>11. Remote:</h4>  <br>
+<h4>12. Repository:</h4> In a revision control system like Git or SVN, a repo (i.e. "repository") is a place that hosts an application's code source, together with various metadata. <br>
