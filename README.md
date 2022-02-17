@@ -77,10 +77,7 @@ WebStorm lets you manage Git projects hosted on GitHub directly from the IDE: cl
 1. Copy the Github.io URL into a browser. <br>
 2. Post the URL into Moodle with your Github account URL. <br>
 
-<h2>References</h2>
-1. Beer, B. (2018). Introducing GitHub. 2ed. O’Reilly Press. <br>
-2. Jetbrains. (2019). Git.   Retrieved March 21, 2019, from https://www.jetbrains.com/help/webstorm/using-git-integration.html <br>
-3. GitHub (2019) GitHub Guides Tutorial. Retrieved  March 19, 2019, from https://guides.github.com/activities/hello-world/ <br> <br> <br> <br> 
+<br><br><br>
 
 <h1>Glossary</h1>
 <h4>1. Branch:</h4>A branch is an independent line of development in a project. When you create a branch (in your terminal or with the web interface), you are creating a snapshot of a certain branch, usually the main branch, at its current state. From there, you can start to make your own changes without affecting the main codebase. <br>
@@ -95,3 +92,18 @@ WebStorm lets you manage Git projects hosted on GitHub directly from the IDE: cl
 <h4>10. Pull:</h4>  <br>
 <h4>11. Remote:</h4>  <br>
 <h4>12. Repository:</h4> In a revision control system like Git or SVN, a repo (i.e. "repository") is a place that hosts an application's code source, together with various metadata. <br>
+
+<br><br><br>
+<h2>References</h2>
+1. Beer, B. (2018). Introducing GitHub. 2ed. O’Reilly Press. <br>
+2. Jetbrains. (2019). Git.   Retrieved March 21, 2019, from https://www.jetbrains.com/help/webstorm/using-git-integration.html <br>
+3. GitHub (2019) GitHub Guides Tutorial. Retrieved  March 19, 2019, from https://guides.github.com/activities/hello-world/ <br>
+4. Repository from https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiDopGQvYX2AhWSlqQKHXkcBWcQFnoECAQQAw&url=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FGlossary%2FRepo&usg=AOvVaw1uGmAfZ58532yQR7fukNeq
+5. 28, Tobias Günther onOct, and Tobias Günther. “Merge Conflicts: What They Are and How to Deal with Them​: CSS-Tricks.” CSS, 3 Dec. 2021, https://css-tricks.com/merge-conflicts-what-they-are-and-how-to-deal-with-them/. <br>
+6. freeCodeCamp.org. “Git Commit Command Explained.” FreeCodeCamp.org, FreeCodeCamp.org, 28 Apr. 2021, https://www.freecodecamp.org/news/git-commit-command-explained/. <br>
+7. “How Do I Use Github Pages? - Learn Web Development: MDN.” Learn Web Development | MDN, https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Using_Github_pages. <br>
+8. “How to Create a Branch.” GitLab, https://docs.gitlab.com/ee/gitlab-basics/create-branch.html. <br>
+9. “How to Merge Table Cells in HTML ?” GeeksforGeeks, 20 Dec. 2020, https://www.geeksforgeeks.org/how-to-merge-table-cells-in-html/. <br>
+10. “HTML CSS Getting Started with Git.” Learn, https://learn.co/lessons/html-css-getting-started-with-git. <br>
+11. JQuery Clone() Method, https://www.w3schools.com/jquery/html_clone.asp. <br>
+12. “Repo - MDN Web Docs Glossary: Definitions of Web-Related Terms: MDN.” MDN Web Docs Glossary: Definitions of Web-Related Terms | MDN, https://developer.mozilla.org/en-US/docs/Glossary/Repo. <br> <br> <br> 
